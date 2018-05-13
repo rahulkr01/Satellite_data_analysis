@@ -1,0 +1,15 @@
+[submodule "Nightlight_crop_cover_mask"]
+	path = Nightlight_crop_cover_mask
+	url = https://github.com/rahulkr01/Nightlight_crop_cover_mask.git
+[submodule "Population_nightlight"]
+	path = Population_nightlight
+	url = https://github.com/rahulkr01/Population_nightlight.git
+[submodule "Landsat_bands16"]
+	path = Landsat_bands16
+	url = https://github.com/rahulkr01/Landsat_bands16.git
+[submodule "Pretrained_network"]
+	path = Pretrained_network
+	url = https://github.com/rahulkr01/Pretrained_network.git
+[submodule "Finetuned_network"]
+	path = Finetuned_network
+	url = https://github.com/rahulkr01/Finetuned_network.git
